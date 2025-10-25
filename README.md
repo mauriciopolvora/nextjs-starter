@@ -1,4 +1,4 @@
-# Film List v2 - Modern Next.js Starter Template
+# Modern Next.js Starter Template
 
 A beautifully crafted, production-ready Next.js starter template with all the essential tools and best practices baked in.
 
