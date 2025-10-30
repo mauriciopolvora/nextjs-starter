@@ -1,6 +1,6 @@
-import { ThemeProvider } from "@/components/theme-provider";
 import type { Metadata } from "next";
 import { JetBrains_Mono, Poppins } from "next/font/google";
+import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 
 const poppins = Poppins({
